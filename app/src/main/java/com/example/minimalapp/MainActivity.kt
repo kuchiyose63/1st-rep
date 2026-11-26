@@ -1,4 +1,4 @@
-package com.example.minimalapp
+package com.example.DroidtesterApp
 
 import android.app.Activity
 import android.os.Bundle
