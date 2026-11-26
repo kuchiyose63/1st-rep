@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MinimalAndroidApp"
+rootProject.name = "DroidtesterApp"
 include(":app")
