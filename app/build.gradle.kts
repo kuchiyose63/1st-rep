@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.minimalapp"
+    namespace = "com.example.DroidtesterApp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.minimalapp"
+        applicationId = "com.example.DroidtesterApp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
