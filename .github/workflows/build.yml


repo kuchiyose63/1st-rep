@@ -1,4 +1,4 @@
-name: Build Android APK
+name: Droidtester APK
 
 on:
   push:
