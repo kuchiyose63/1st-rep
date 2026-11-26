@@ -3,7 +3,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="Minimal App"
+        android:label="DS Calc"
         android:theme="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
 
         <activity
